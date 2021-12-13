@@ -1,5 +1,5 @@
 
-##Answers:
+## Answers:
 
 ### 1. Stationarity matter in Time Series Analysis:
 Stationarity refers to the fact that the statistical properties of a time series or the process generating it do not change over time. Stationarity is a prerequisite for mathematically representing a time series and be able to perform analysis and forecasting. It is important because many useful analytical tools and statistical tests and models rely on it by considering processes to be stationary. It is easier to analyze and model stationary processes. Some statistical properties such as law of large numbers, central limit theorem still hold for stationary random variables (non-independent variables). Stationarity is also important for model describing the data to have stable accuracy at different time points.
